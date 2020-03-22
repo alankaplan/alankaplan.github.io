@@ -2,9 +2,8 @@
 title: "Alan D. Kaplan"
 ---
 
-## Research scientist
+## Research Scientist, Lawrence Livermore National Laboratory
 ### Machine learning, statistical methods, applications
-### Lawrence Livermore National Laboratory
 ### [Google scholar](https://scholar.google.com/citations?user=ZwBxbEUAAAAJ&hl=en)
 
 ---
